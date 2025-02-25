@@ -1,0 +1,16 @@
+Instructions assume you are on a lab computer running VMWare Player.
+
+1. Double click on the OVA, click 'Continue', click 'Finish'
+2. Select a folder where to import it and and a name, click 'Import'
+3. Retry if there is error, this should result in VMWare Player launching.
+4. Let VMWare import, this should take a few minutes, following which your Linux VM should be running.
+5. (Optional) In the VM, Press 'Window' key, then type 'Keyboard and Mouse', click on the corresponding suggestion, go to Keyboard section, remove all layouts but the one you want to use.
+
+You are ready...
+
+Credentials (in case you need them) are:
+username: student
+password: 1dt106
+
+
+
